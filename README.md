@@ -23,7 +23,7 @@ Here are the ways in which players can play their cards:
 4. If the player has nothing in their reserve, they may place their drawn card into reserve. The player must simply place the card, face down, in front of themselves.
 5. If the player has something in their reserve, they may replace the drawn card with the one in reserve. Note that the reserve pile can have at most one card in it at any given time.
 
-If a player cannot play a card following any of these rules (i.e. they are stuck playing a card with a greater value than any of the heads), they must <i>"cut off one of the heads"</i> by playing their card on the head, and adding all of the cards in that head into their <i><u>discard pile<u><i>.
+If a player cannot play a card following any of these rules (i.e. they are stuck playing a card with a greater value than any of the heads), they must <i>"cut off one of the heads"</i> by playing their card on the head, and adding all of the cards in that head into their <i><u>discard pile</u></i>.
   
 Once a player runs out of cards in their <i>draw pile</i>, they must shuffle their <i>discard pile</i> and add it to their draw pile. If their discard pile is empty, they must play their reserve card.
   
