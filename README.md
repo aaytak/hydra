@@ -17,11 +17,11 @@ ACE   TWO   THREE   FOUR   FIVE   SIX   SEVEN   EIGHT   NINE   TEN   JACK   QUEE
 Player 1 creates the first <i>"head"</i> by drawing the first card from their draw pile and placing it, face up, in the centre of the table. If the card happens to be a joker, it takes the value 2 (see notes about jokers below). From there, the other players take turns clockwise. Each player draws and plays as many cards as there are heads.
 
 Here are the ways in which players can play their cards:
-<b>1.</b> If the drawn card's value is <u>strictly less</u> than the top card of any head, it may be played, face up, on that head.
-<b>2.</b> If the drawn card's value is <u>equal</u> to that of the top card of any head, it may be played, face up, on that head. However, the player's turn ends immediately after this, and the rest of the player's drawn cards return to their draw pile.
-<b>3.</b> If the top card of any head is an ace, and the drawn card is not, it may be played, face up, on that head.
-<b>4.</b> If the player has nothing in their reserve, they may place their drawn card into reserve. The player must simply place the card, face down, in front of themselves.
-<b>5.</b> If the player has something in their reserve, they may replace the drawn card with the one in reserve. Note that the reserve pile can have at most one card in it at any given time.
+1. If the drawn card's value is <u>strictly less</u> than the top card of any head, it may be played, face up, on that head.
+2. If the drawn card's value is <u>equal</u> to that of the top card of any head, it may be played, face up, on that head. However, the player's turn ends immediately after this, and the rest of the player's drawn cards return to their draw pile.
+3. If the top card of any head is an ace, and the drawn card is not, it may be played, face up, on that head.
+4. If the player has nothing in their reserve, they may place their drawn card into reserve. The player must simply place the card, face down, in front of themselves.
+5. If the player has something in their reserve, they may replace the drawn card with the one in reserve. Note that the reserve pile can have at most one card in it at any given time.
 
 If a player cannot play a card following any of these rules (i.e. they are stuck playing a card with a greater value than any of the heads), they must <i>"cut off one of the heads"</i> by playing their card on the head, and adding all of the cards in that head into their <i><u>discard pile<u><i>.
   
