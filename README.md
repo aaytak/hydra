@@ -2,8 +2,8 @@
 This is my implementation of the card game Hydra using C++.
 Written by Kat Driscoll at the University of Waterloo for CS246 in Spring 2021.
 
-
-<b>Game Rules:</b>
+<br><br>
+<b>Game Rules:</b><br>
 This game requires at least 2 players. You need one deck of cards per player (including jokers). These cards are all shuffled, then distributed evenly, face-down, between all players (i.e. each player starts with 54 cards). This is the player's <i><u>draw pile</u></i>.
 
 The players each have 3 "piles" of cards:
