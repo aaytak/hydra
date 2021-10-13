@@ -1,6 +1,6 @@
 # hydra
 This is my implementation of the card game Hydra using C++.
-Written by Kat Driscoll at the University of Waterloo for CS246 in Spring 2021.
+Written by Kat Driscoll at the University of Waterloo for CS246 in Spring 2021. It uses several OOP design patterns, such as the observer.
 
 <br><br>
 <b>Game Rules:</b><br>
