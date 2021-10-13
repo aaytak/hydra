@@ -12,7 +12,7 @@ The players each have 3 "piles" of cards:
 3. The reserve (can only have 0 or 1 cards).
 
 The card suits are irrelevant. Here are the card values, in increasing order:
-ACE   TWO   THREE   FOUR   FIVE   SIX   SEVEN   EIGHT   NINE   TEN   JACK   QUEEN   KING
+<br>ACE   TWO   THREE   FOUR   FIVE   SIX   SEVEN   EIGHT   NINE   TEN   JACK   QUEEN   KING
 
 Player 1 creates the first <i>"head"</i> by drawing the first card from their draw pile and placing it, face up, in the centre of the table. If the card happens to be a joker, it takes the value 2 (see notes about jokers below). From there, the other players take turns clockwise. Each player draws and plays as many cards as there are heads.
 
